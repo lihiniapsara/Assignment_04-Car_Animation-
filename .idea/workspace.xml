@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b088c1-bba0-418d-b0da-285f8c362e72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Usage of Cascade Style Sheets - 02(case 02).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/add-to-cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/ambulance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/notebook-of-contacts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/paper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/slide1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/slide2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/slide3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/slide4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_05.html" afterDir="false" />
+    <list default="true" id="60b088c1-bba0-418d-b0da-285f8c362e72" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,15 +36,17 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.Usage of Cascade Style Sheets - 02(case 02).html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.car_animation.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.case_01.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.case_02.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.case_03.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.case_05.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pos-system- Assigment 6&amp;7&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/assignment_04/assest&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -92,10 +77,25 @@
       <workItem from="1726307818458" duration="1289000" />
       <workItem from="1727493286244" duration="11926000" />
       <workItem from="1727514611883" duration="30000" />
+      <workItem from="1727684025741" duration="4140000" />
+      <workItem from="1727758856170" duration="148000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1727688512759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727688512760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
